@@ -1,0 +1,6 @@
+
+€
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "modelMapper".(Éè±8ë°Ãâö1
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰÷¡ÀJ$fa03bf96-92c3-474a-821f-08c6c52c1f41
+g
+java:S1128"JRemove this unused import 'org.modelmapper.convention.MatchingStrategies'.(ìßêŞ8ô°Ãâö1

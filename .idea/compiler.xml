@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="project1" />
+        <module name="blogApi" />
+        <module name="javaXB" />
+        <module name="jUnitProject" />
+        <module name="UserDefinedAnnotations" />
+        <module name="email-verification" />
+        <module name="apachePOI" />
+        <module name="start_spring" />
+        <module name="todoApp" />
+        <module name="KHteams" />
+        <module name="rules-engine" />
+        <module name="queryBuilder" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="KHteams" options="" />
+      <module name="UserDefinedAnnotations" options="" />
+      <module name="apachePOI" options="" />
+      <module name="blogApi" options="-parameters" />
+      <module name="email-verification" options="" />
+      <module name="jUnitProject" options="" />
+      <module name="javaXB" options="" />
+      <module name="project1" options="" />
+      <module name="queryBuilder" options="" />
+      <module name="rules-engine" options="" />
+      <module name="start_spring" options="" />
+      <module name="todoApp" options="-parameters" />
+    </option>
+  </component>
+</project>

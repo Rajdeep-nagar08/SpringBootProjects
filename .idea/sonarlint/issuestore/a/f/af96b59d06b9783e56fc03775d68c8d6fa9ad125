@@ -1,0 +1,16 @@
+
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(λΙω―ÿÿÿÿÿ8Φεδεφ1J$1565239a-bdc9-43aa-8081-03839455f408
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(κζΔή8ίεδεφ1J$8929b1f5-d9a6-404c-815b-d2ef3d1515da
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(κζΔή8ίεδεφ1J$4f0e6c86-55e4-453a-a0eb-00d803c418cb
+g
+java:S3751"Make this method non "private".(°Ωωÿÿÿÿ8γεδεφ1J$3587eed7-805b-4ba1-a4cd-fb1b1cd3a5b1
+b
+java:S3751#"Make this method non "private".(Πήγ•8εεδεφ1J$a5f58389-1b7f-43c5-9de6-f3772b78a153
+b
+java:S3751+"Make this method non "private".(ΏωΓΖ8ζεδεφ1J$20de17e3-687a-4704-bdc3-9fe3fb2d3609
+
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ίΝ ’ώÿÿÿÿ8ηεδεφ1J$f88928c3-a3d6-440a-a608-08740229daca
+g
+java:S37514"Make this method non "private".(Ύ·Δόÿÿÿÿ8θεδεφ1J$44ef27d3-d9da-4977-9e18-fa38edd049de

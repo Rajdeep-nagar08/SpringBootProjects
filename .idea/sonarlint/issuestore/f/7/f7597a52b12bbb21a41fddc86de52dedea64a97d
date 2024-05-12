@@ -1,0 +1,19 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½ΨΧόÿÿÿÿ8ϋΙβαφ1J$4a771050-725d-4d1b-85d5-34fc184aafac
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(λΙω―ÿÿÿÿÿ8ύΙβαφ1J$75b00499-4796-4178-a5f9-bb84ab7fba09
+Ι
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(υ¥λωÿÿÿÿ8ÿΙβαφ1J$f83d3a0e-df3c-47f0-a4c2-5d0fb6f9554d
+Ι
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿΦΝ…ϊÿÿÿÿ8€Κβαφ1J$c63601af-8b7f-4d41-b8d5-f59c581d8d0c
+Ι
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ώΦ‹»ϋÿÿÿÿ8€Κβαφ1J$1184e34c-6748-410a-a29a-5075ba56400f
+Δ
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§¤€‚8€Κβαφ1J$5b38638c-49ce-42b7-b66b-1295a262b81d
+g
+java:S3751"Make this method non "private".(υ¥λωÿÿÿÿ8„Κβαφ1J$947c6e46-b10b-400a-8cc6-aff89aa1a805
+g
+java:S3751"Make this method non "private".(ÿΦΝ…ϊÿÿÿÿ8†Κβαφ1J$ca605a92-3457-44ef-a698-6fc5ae04bcd9
+g
+java:S3751 "Make this method non "private".(ώΦ‹»ϋÿÿÿÿ8†Κβαφ1J$f0319b50-dbd2-4da5-9357-2646c8e88cb2
+b
+java:S3751'"Make this method non "private".(§¤€‚8†Κβαφ1J$27a1bb57-abc6-47ba-a4f7-75d7d21c1149

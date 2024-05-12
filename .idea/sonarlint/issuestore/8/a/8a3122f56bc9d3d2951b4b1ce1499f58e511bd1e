@@ -1,0 +1,7 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“©ŠÀ8¤Ò´èâ1J$96e30542-11e7-4ded-868b-6a102afac42e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å£ÇÔ8§Ò´èâ1J$82878024-7342-48f3-a6c7-0dbe3cbaf150
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¯Ò´èâ1J$20010b6b-6bc0-40e9-9d95-a7f338f7acf1
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8°Ò´èâ1J$c13bc00d-d917-49f9-9798-7df8596a6ba4

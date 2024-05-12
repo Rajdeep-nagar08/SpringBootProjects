@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/javaXB/pom.xml" />
+        <option value="$PROJECT_DIR$/blogApi/pom.xml" />
+        <option value="$PROJECT_DIR$/apachePOI/pom.xml" />
+        <option value="$PROJECT_DIR$/myQuizApp/pom.xml" />
+        <option value="$PROJECT_DIR$/email-verification/pom.xml" />
+        <option value="$PROJECT_DIR$/queryBuilder/pom.xml" />
+        <option value="$PROJECT_DIR$/project1/pom.xml" />
+        <option value="$PROJECT_DIR$/jUnitProject/pom.xml" />
+        <option value="$PROJECT_DIR$/KHteams/pom.xml" />
+        <option value="$PROJECT_DIR$/rules-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/UserDefinedAnnotations/pom.xml" />
+        <option value="$PROJECT_DIR$/todoApp/pom.xml" />
+        <option value="$PROJECT_DIR$/ExcelToJsonToDb/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

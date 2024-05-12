@@ -1,0 +1,23 @@
+
+†	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$d5af8915-143f-43b4-b208-12b7b83d9081
+q
+java:S1141N"5Extract this nested try block into a separate method.(üœ ÀJ$df1be081-5111-4f62-afab-7cd8dfb6204b
+Œ	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â†¬J$b31a2973-5712-4da3-ae4f-f49dfd98ebd6
+…
+java:S2095ˆ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(•±J$99891f7a-b168-46ad-8c9a-c79e48a9fa83
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(œû¿ØJ$3a53ba86-65b4-4fd8-8d3a-00424618d1f8
+‚
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÒîÓõúÿÿÿÿJ$b6ca533b-002c-47c5-b82c-3fb24ba29f7d
+e	java:S1068"+Replace this use of System.out by a logger.(çØî
+J$c060f5e1-6540-42b6-8c87-7d78457e0cdb
+r
+java:S6437A"6Revoke and change this password, as it is compromised.(—Í‘J$6de9f7d5-69fb-4e46-82ef-1e2afc74bf0d
+f	java:S106E"+Replace this use of System.out by a logger.(ì·¤ÎJ$b87ceb23-ae6f-4eea-866a-e1be14830097
+f	java:S106T"+Replace this use of System.out by a logger.(Ğ³¾ıJ$e58ee404-94e5-42dc-9bfb-cf5dfd8f6d7f
+k	java:S106X"+Replace this use of System.out by a logger.(¢ˆ®³ıÿÿÿÿJ$51b523f8-9a87-44aa-8519-872355daa192
+f	java:S106["+Replace this use of System.out by a logger.(ŞêñşJ$7eb0efe6-bd2f-4bd1-b879-a8507ea5a294
+f	java:S106]"+Replace this use of System.err by a logger.(Ğ€•J$1dbae590-68dd-4e34-bc22-39c5d57fb3d0
+	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ò…ïÿÿÿÿÿJ$b838abd0-c71f-412a-88d6-e1778bb2f040
+d
+java:S1125i"(Remove the unnecessary boolean literals.(ÀıäJ$1770cf5a-31a3-46b7-83ff-e981ac8c34ca

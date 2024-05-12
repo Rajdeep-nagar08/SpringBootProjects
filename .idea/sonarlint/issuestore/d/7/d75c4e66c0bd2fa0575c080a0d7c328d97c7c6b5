@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(©Ùçß8ƒìÄäö1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8…ìÄäö1
+C
+java:S1452;"&Remove usage of generic wildcard type.(Ìî»ó8ŠìÄäö1
+a
+java:S1128	"DRemove this unused import 'org.springframework.http.HttpStatusCode'.(®å™Õ8‘ìÄäö1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8’ìÄäö1

@@ -1,0 +1,26 @@
+
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ï´ùûÿÿÿÿ8ŠÃÆäö1
+˜
+java:S1488n"\Immediately return this expression instead of assigning it to the temporary variable "user".(ç¶ô¼J$6d6838dc-977b-4b5e-af25-5025e2b80533
+ 
+java:S1488‚"cImmediately return this expression instead of assigning it to the temporary variable "userPayload".(Ÿ„¹„J$f5047a75-2fcc-47e6-978d-1d83e1a03667
+™
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¿·êòùÿÿÿÿ8‰€Õ´ã1J$73effacd-1df1-436c-84e1-b22a77c61a36
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c9c7ee23-3d2e-475a-ba2c-ce1da618e875
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$8f322b82-2857-40ae-8f5c-a7623d83835f
+
+java:S6813‰"BRemove this field injection and use constructor injection instead.(êæÄŞJ$8f3f122c-ba05-45b6-98a6-39745aba3027
+
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$5796b148-aaca-465d-ab04-e635e5c33be0
+{
+java:S18546"?Remove this useless assignment to local variable "updatedUser".(²«íûJ$90286b2c-4510-4558-b886-209031c29b16
+l
+java:S14816"0Remove this unused "updatedUser" local variable.(²«íûJ$91cd99cb-4bd2-4d65-8f84-ead789f8c1bc
+W
+java:S3626["Remove this redundant jump.(ûÁİ…J$30261a34-7f4c-4bf3-b607-25e66a3ed574
+|	java:S125f"<This block of commented-out lines of code should be removed.(ö££ûÿÿÿÿJ$4a1fa73d-b860-4178-8aa0-5cb6db0bfacb
+|	java:S125x"<This block of commented-out lines of code should be removed.(ºæ‚êøÿÿÿÿJ$aad50206-c407-4726-b3ef-912c11fa8898
+e
+java:S1128	"HRemove this unused import 'com.rajdeep.blogapi.payloadData.RolePayload'.(Ê»„¬8©ÃÆäö1

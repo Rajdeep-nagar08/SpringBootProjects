@@ -1,0 +1,24 @@
+
+	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8°éà¦è1J$7a166700-f14f-4596-9781-1b3dd498abf0
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—âš›ùÿÿÿÿ8²éà¦è1J$94deff4d-743b-49c9-99b4-41a576b44b91
+‹
+java:S2095)"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ø¤îî8Ïêà¦è1J$28424f8f-6709-421f-a50d-4d3efdd003eb
+ˆ
+java:S2095"FUse try-with-resources or close this "Workbook" in a "finally" clause.(Í’ßd8Ïêà¦è1J$980f1f8b-ac41-4234-84a0-ecec71bbc1a0
+
+java:S2095+"GUse try-with-resources or close this "CSVWriter" in a "finally" clause.(â¿úùûÿÿÿÿ8Ïêà¦è1J$337fe327-e7dd-4137-b06b-8d6459817ffb
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¡Èˆøÿÿÿÿ8×êà¦è1J$ac5209a8-a67f-49b1-8e15-9ca8f802e08f
+„
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¹š–¹8×êà¦è1J$838fc17e-0706-46ce-9f6f-7ceb6cf9bf59
+l	java:S1069"+Replace this use of System.out by a logger.(ØêÉm8Üêà¦è1J$20f16fb6-2e0f-4e4a-bf46-11a568e5b257
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8àêà¦è1J$5d1ace91-d891-40de-bb68-68739ccd7501
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8àêà¦è1J$4bb5fdbf-3672-424f-9ac7-bff720e47896
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8àêà¦è1J$71d2d3e7-3bc7-427a-a9bd-59fd0a4a5f65
+u
+java:S1128"2Remove this unused import 'com.opencsv.CSVReader'.(‚á•Æ8àêà¦è1J$8cf20a6b-9fcc-4746-aff0-e09e95bc75c5
+°
+java:S1128"hRemove this unused import 'org.apache.poi.ss.usermodel.DataValidationConstraint.ValidationType.FORMULA'.(ÓÄ·²úÿÿÿÿ8àêà¦è1J$d1bb7391-87f0-4f60-a523-a59173c1cfaf

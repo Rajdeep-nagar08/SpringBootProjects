@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ÿºÔ
+d
+java:S1128"IRemove this unused import 'jakarta.persistence.criteria.CriteriaBuilder'.(À¼ºñşÿÿÿÿ
+@
+java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ
+K
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›
+@
+java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ

@@ -1,0 +1,8 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÇê÷J$3f088f6f-8653-4434-9413-d73c54516148
+f
+java:S1165"%Make this "resourceName" field final.(å°·çþÿÿÿÿJ$e6ee1c96-1b37-41e0-b698-ac45b2ef2a03
+^
+java:S1165""Make this "fieldName" field final.(”ë¶«J$2a8e8fd2-eb83-4633-9635-09b837888149
+_
+java:S1165"#Make this "fieldValue" field final.(³´âÁJ$2710bb73-9739-49b5-8eff-14c160120970

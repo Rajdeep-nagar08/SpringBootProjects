@@ -1,0 +1,28 @@
+
+	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(òçµ—J$9482459f-e5da-49bd-97a8-51645cc4520b
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ç²¸J$0c7d7c71-2357-4853-a8db-1ced8f6bedff
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—âš›ùÿÿÿÿJ$843ff3fa-558f-4eac-a2cf-7e3663641679
+‰
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õ°•ìJ$72de44f2-9c0a-4cae-bff5-8e6da3404c68
+‹
+java:S2095 "JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(âÑãöøÿÿÿÿJ$3b5c2cf5-a3c0-48ad-8c5c-d6d51c88e97e
+‚
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¡ÈˆøÿÿÿÿJ$88c0f1af-79f8-469b-8341-2bfab7edda31
+|	java:S125#"<This block of commented-out lines of code should be removed.(ïÁŒóıÿÿÿÿJ$66adea42-f5ea-402b-bcf1-b97cf6afbf9f
+f	java:S106,"+Replace this use of System.out by a logger.(Ù„»J$1e9b0174-5cba-424f-8db4-61e2c66937c4
+k	java:S106."+Replace this use of System.out by a logger.(†¦ÆûÿÿÿÿJ$dfb27596-ce13-4bc7-8c7b-a96a83fa2734
+f	java:S1068"+Replace this use of System.out by a logger.(®à§ÚJ$d7c73acf-96c9-4ebe-9f88-56a9ecd1b438
+k	java:S106:"+Replace this use of System.out by a logger.(¬Óˆ±şÿÿÿÿJ$39173e21-859f-40f4-ab93-340af7014ca6
+f	java:S106>"+Replace this use of System.out by a logger.(×•œ²J$1a119080-9ae2-46a9-94fd-1975762891fc
+k	java:S106@"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿJ$2b40bf58-2983-40f6-b5bf-ba4f944e0bdc
+s
+java:S1128
+"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿJ$02b79d2d-9a28-45e8-8236-3859c478b6c7
+{
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿJ$607a2717-aedc-40c3-8806-e640e227c630
+t
+java:S1128"3Remove this unused import 'java.sql.Types.BOOLEAN'.(Ğå†üøÿÿÿÿJ$9d8bb6f9-5c91-4ddc-b734-d709bfb30e75
+o
+java:S1128"3Remove this unused import 'java.sql.Types.NUMERIC'.(œÒÏ J$8b54e1e4-4f53-4a27-9ead-4abca68592e6
+’
+java:S1128"VRemove this unused import 'org.apache.tomcat.util.bcel.classfile.ElementValue.STRING'.(ŞüäJ$ec42257c-ef48-473b-a297-a723a6cd12a3

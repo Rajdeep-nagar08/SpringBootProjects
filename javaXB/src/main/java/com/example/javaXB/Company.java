@@ -1,0 +1,32 @@
+package com.example.javaXB;
+
+import jakarta.xml.bind.annotation.XmlAttribute;
+import jakarta.xml.bind.annotation.XmlElement;
+import jakarta.xml.bind.annotation.XmlValue;
+
+public class Company {
+
+    private String id;
+
+    private String name;
+
+    @XmlAttribute
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+
+    // <> ....XmlValue.... </>
+    @XmlValue
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}

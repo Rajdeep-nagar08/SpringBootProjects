@@ -143,3 +143,7 @@ H
 apachePOI/.gitattributes,2\8\2839b91a19e3e1a52661a446b4207f6ff5a10448
 >
 .gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
+M
+rules-engine/rules-engine.iml,1\6\1627539d3cebd114436a5846cc3b8deca422b602
+B
+blogApi/.gitignore,a\b\aba894545a84f0fa163eda59a46984e2ddaa8873

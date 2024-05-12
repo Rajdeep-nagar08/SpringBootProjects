@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cd6e23b-07fa-4a92-b047-928ef89a62b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1627539d3cebd114436a5846cc3b8deca422b602" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/6/1627539d3cebd114436a5846cc3b8deca422b602" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogApi" beforeDir="false" afterPath="$PROJECT_DIR$/blogApi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogApi/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/blogApi/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/dslResolver/DSLKeywordResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/DSLKeywordResolverService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/dslResolver/DSLResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/DSLResolverService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/dslResolver/resolverImpl/BankResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/serviceImpl/DSLResolverServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/knowledgeBase/KnowledgeBaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/getRuleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/knowledgeBase/db/RuleDbModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/modelEntity/RuleDbModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/knowledgeBase/db/RulesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/daoRepositories/RulesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/knowledgeBase/models/Rule.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/payloadData/Rule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/langParser/DSLParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/langParser/DSLParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/langParser/DSLPatternUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/langParser/DSLPatternUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/langParser/MVELParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/langParser/MVELParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/langParser/RuleParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/langParser/RuleParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/restAPI/RuleEngineRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/Controller/RuleEngineRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/restAPI/RuleNamespace.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/Controller/RuleNamespace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/ruleEngine/InferenceEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/ruleEngine/InferenceEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/ruleEngine/RuleEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/ruleEngine/RuleEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/rulesImpl/insuranceRuleEngine/InsuranceDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/payloadData/InsuranceDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/rulesImpl/insuranceRuleEngine/InsuranceInferenceEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/rulesImpl/InsuranceInferenceEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/rulesImpl/insuranceRuleEngine/PolicyHolderDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/payloadData/PolicyHolderDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/rulesImpl/loanRuleEngine/LoanDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/payloadData/LoanDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/rulesImpl/loanRuleEngine/LoanInferenceEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/services/rulesImpl/LoanInferenceEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/rulesImpl/loanRuleEngine/UserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/java/com/tech/payloadData/UserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/test/java/com.tech/DSLPatternTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/test/java/com.tech/DSLPatternTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules-engine/src/test/java/com.tech/RuleEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rules-engine/src/test/java/com.tech/RuleEngineTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blogApi" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Rajdeep-nagar08"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="080c721e-1206-4064-a7bb-62e69059cc33" />
+        <option name="url" value="https://github.com/Rameshkatiyar/rules-engine.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cdAIh8bYO5LDnrH8tP59amn7aI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Debug",
+    "Application.BlogApiApplication.executor": "Debug",
+    "Application.CsvToDb.executor": "Debug",
+    "Application.DbToExcel.executor": "Run",
+    "Application.EmailVerificationApplication.executor": "Run",
+    "Application.ExcelToCsv.executor": "Run",
+    "Application.ExcelToJson.executor": "Run",
+    "Application.ExcelToJson1.executor": "Run",
+    "Application.ExcelToJson2.executor": "Run",
+    "Application.Project1Application.executor": "Run",
+    "Application.StartSpringApplication.executor": "Run",
+    "Application.TodoAppApplication.executor": "Debug",
+    "Application.UserDefinedAnnotationsApplication.executor": "Run",
+    "JUnit.All in blogApi.executor": "Run",
+    "JUnit.CalculatorServiceTest.addTwoNumberTest.executor": "Run",
+    "JUnit.CalculatorServiceTest.executor": "Run",
+    "JUnit.CalculatorServiceTest.sumAnyNumberTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/RajdeepNagar/java class",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.emailverification.payload" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RajdeepNagar\java class" />
+      <recent name="C:\Users\RajdeepNagar\java class\apachePOI" />
+      <recent name="C:\Users\RajdeepNagar\java class\todoApp\src\main\java\com\example\todoApp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.todoApp.Payload" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TodoAppApplication">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tech.Application" />
+      <module name="rules-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rajdeep.blogapi.BlogApiApplication" />
+      <module name="blogApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rajdeep.blogapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelToJsonToDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.project1.ExcelToJsonToDB" />
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.todoApp.TodoAppApplication" />
+      <module name="todoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.todoApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDefinedAnnotationsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.UserDefinedAnnotations.UserDefinedAnnotationsApplication" />
+      <module name="UserDefinedAnnotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.UserDefinedAnnotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TodoAppApplication" />
+        <item itemvalue="Application.BlogApiApplication" />
+        <item itemvalue="Application.UserDefinedAnnotationsApplication" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.ExcelToJsonToDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cd6e23b-07fa-4a92-b047-928ef89a62b3" name="Changes" comment="" />
+      <created>1708431003361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708431003361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blogApi/src/main/java/com/rajdeep/blogapi/controller/Check.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blogApi/src/main/java/com/rajdeep/blogapi/services/impl/PostService1Impl.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/todoApp/src/main/java/com/example/todoApp/Controllers/TodoController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/todoApp/src/main/java/com/example/todoApp/Controllers/TodoController.java</url>
+          <line>25</line>
+          <properties class="com.example.todoApp.Controllers.TodoController" method="addTodo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
